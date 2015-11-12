@@ -1,0 +1,7 @@
+{application, blookup,
+  [{description, "Binary Lookup Data Structure"},
+   {vsn, "0.1.0"},
+   {modules, [blookup]},
+   {registered, []},
+   {applications, [kernel, stdlib]}]}.
+
