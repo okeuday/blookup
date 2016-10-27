@@ -24,7 +24,7 @@ be for large amounts of data (e.g., caching of large files) to avoid a
 greater amount of latency when accessing the data without the data structures.
 
 The data structures keep all the data in large binaries due to binaries being
-the only data structure that is reference counted in Erlang.  The large
+the only data type that is reference counted in Erlang.  The large
 binary usage avoids any extra copying that would create extra memory
 consumption, so memory is conserved for a large amount of data at the expense
 of slower access times.
