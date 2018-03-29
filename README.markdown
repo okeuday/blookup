@@ -43,7 +43,7 @@ replacement being the same total size (the difference needs to be less than the
 Author
 ------
 
-Michael Truog (mjtruog [at] gmail (dot) com)
+Michael Truog (mjtruog at protonmail dot com)
 
 License
 -------
