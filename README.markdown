@@ -32,7 +32,7 @@ of slower access times.
 For specifying both the size of the key and the size of the value, see the
 [bisect](https://github.com/knutin/bisect) data structure.
 
-###Note 1:
+### Note 1:
 
 This assumes the blookupv stores are not replacing key/value pairs of the
 same total size.  If the sizes of the new and old key/value pairs are
